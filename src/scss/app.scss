@@ -1,0 +1,10 @@
+// import from node_modules
+@import '~normalize.css/normalize.css';
+
+// import css
+@import 'vendor/test.css';
+
+// import scss
+@import 'base/general';
+@import 'pages/contactPage';
+@import 'pages/homePage';

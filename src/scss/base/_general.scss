@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100%;
+    overflow-x: hidden;
+    color:#0088FF;
+    font-size:16px;
+    background: #FFFFFF;
+}
+img{
+    display:block;
+    max-width:100%;
+}
+ul{
+    padding:0;
+    margin:0;
+    list-style:none;
+}
+li{
+    padding:0;
+    margin:0;
+}
